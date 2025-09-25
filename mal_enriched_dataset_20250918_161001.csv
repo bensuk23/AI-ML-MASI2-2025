@@ -1,0 +1,101 @@
+anime_id,title,score,rank,popularity,members,genres,studios,sentiment_score,controversy_index,emotional_intensity,review_count_scraped,synopsis_length,positive_keywords_count,negative_keywords_count,hype_ratio
+52991,,,,,,"Adventure, Drama, Fantasy, Shounen",Madhouse,0.149,3.742,0.502,3,1096,2,2,0
+5114,,,,,,"Action, Adventure, Drama, Fantasy, Military, Shounen",Bones,0.141,2.867,0.527,3,1166,7,3,0
+9253,,,,,,"Drama, Sci-Fi, Suspense, Psychological, Time Travel",White Fox,0.087,2.867,0.532,3,1141,5,4,0
+38524,,,,,,"Action, Drama, Suspense, Gore, Military, Survival, Shounen",Wit Studio,0.037,2.944,0.525,3,859,2,4,0
+39486,,,,,,"Action, Comedy, Drama, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Bandai Namco Pictures,0.118,2.867,0.549,3,880,4,1,0
+28977,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Bandai Namco Pictures,0.133,3.266,0.501,3,1202,2,1,0
+11061,,,,,,"Action, Adventure, Fantasy, Shounen",Madhouse,0.201,1.247,0.548,3,888,2,1,0
+60022,,,,,,"Action, Adventure, Fantasy, Shounen",Toei Animation,0.174,2.449,0.523,3,905,2,0,0
+820,,,,,,"Drama, Sci-Fi, Adult Cast, Military, Space","K-Factory, Kitty Film Mitaka Studio",0.077,3.3,0.5,3,968,4,3,0
+9969,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Sunrise,0.066,2.449,0.556,3,1110,5,4,0
+15417,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Sunrise,0.294,0.0,0.558,3,827,4,0,0
+41467,,,,,,"Action, Adventure, Supernatural, Shounen",Studio Pierrot,0.082,2.625,0.563,3,1001,0,3,0
+34096,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Bandai Namco Pictures,0.083,2.055,0.531,3,1033,2,3,0
+43608,,,,,,"Comedy, Romance, School, Seinen",A-1 Pictures,0.192,2.055,0.56,3,948,7,1,0
+42938,,,,,,"Drama, Romance, Supernatural, Shoujo",TMS Entertainment,0.137,1.414,0.598,3,1027,2,4,0
+4181,,,,,,"Drama, Romance",Kyoto Animation,0.084,2.494,0.533,3,692,2,3,0
+918,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Sunrise,0.094,3.859,0.48,3,1051,6,2,0
+28851,,,,,,"Award Winning, Drama, Shounen",Kyoto Animation,0.075,2.055,0.548,3,955,4,3,0
+58514,,,,,,"Drama, Mystery, Historical, Medical","OLM, TOHO animation STUDIO",0.163,1.886,0.508,3,926,3,2,0
+2904,,,,,,"Action, Award Winning, Drama, Sci-Fi, Mecha, Military, Super Power",Sunrise,0.098,2.828,0.506,3,801,1,5,0
+35180,,,,,,"Drama, Childcare, Strategy Game, Seinen",Shaft,0.121,2.494,0.48,3,986,3,3,0
+15335,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Time Travel, Shounen",Sunrise,0.15,1.886,0.524,3,1061,4,2,0
+19,,,,,,"Drama, Mystery, Suspense, Adult Cast, Psychological, Seinen",Madhouse,0.149,1.7,0.492,3,1392,2,0,0
+37491,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Bandai Namco Pictures,0.068,0.943,0.485,3,834,2,1,0
+54492,,,,,,"Drama, Mystery, Historical, Medical","OLM, TOHO animation STUDIO",0.225,2.055,0.547,3,933,5,0,0
+35247,,,,,,"Comedy, Mystery, Supernatural, Vampire",Shaft,0.131,2.494,0.47,3,717,3,5,0
+51535,,,,,,"Action, Drama, Suspense, Gore, Military, Survival, Shounen",MAPPA,0.11,2.449,0.537,3,1005,2,3,0
+60489,,,,,,"Drama, Sci-Fi, Psychological, Time Travel, Shounen",Enishiya,0.058,1.7,0.579,3,1045,6,4,0
+37987,,,,,,"Award Winning, Drama",Kyoto Animation,0.046,2.494,0.536,3,708,1,0,0
+59571,,,,,,"Action, Drama, Suspense, Gore, Military, Survival, Shounen",MAPPA,0.216,2.357,0.616,3,76,6,2,0
+32281,,,,,,"Award Winning, Drama",CoMix Wave Films,0.131,2.449,0.509,3,851,4,5,0
+40682,,,,,,"Action, Historical, Military, Seinen","Studio Pierrot, Studio Signpost",0.108,2.625,0.579,3,1062,5,0,0
+49387,,,,,,"Action, Adventure, Drama, Gore, Historical, Seinen",MAPPA,0.129,2.055,0.462,3,980,2,0,0
+36838,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Bandai Namco Pictures,0.052,2.494,0.499,3,1032,2,3,0
+263,,,,,,"Sports, Combat Sports, Shounen",Madhouse,0.141,2.625,0.517,3,1228,3,2,0
+40028,,,,,,"Action, Drama, Suspense, Gore, Military, Survival, Shounen",MAPPA,0.107,1.633,0.523,3,834,0,0,0
+31758,,,,,,"Action, Mystery, Supernatural, Vampire",Shaft,0.018,1.7,0.565,3,1081,0,1,0
+37510,,,,,,"Action, Comedy, Supernatural",Bones,0.116,3.682,0.539,3,710,3,5,0
+59192,,,,,,"Action, Supernatural, Historical, Shounen",ufotable,0.19,2.625,0.51,3,71,4,1,0
+32935,,,,,,"Sports, School, Team Sports, Shounen",Production I.G,0.12,2.055,0.502,3,851,2,2,0
+199,,,,,,"Adventure, Award Winning, Fantasy, Mythology",Studio Ghibli,0.13,2.625,0.519,3,824,7,4,0
+48583,,,,,,"Action, Drama, Suspense, Gore, Military, Survival, Shounen",MAPPA,0.052,2.867,0.516,3,1046,1,4,0
+37521,,,,,,"Action, Adventure, Drama, Gore, Historical, Seinen",Wit Studio,0.067,2.16,0.497,3,1089,4,6,0
+17074,,,,,,"Comedy, Mystery, Romance, Supernatural, Vampire",Shaft,0.122,3.3,0.499,3,797,2,2,0
+2921,,,,,,"Drama, Sports, Combat Sports, Shounen",Tokyo Movie Shinsha,0.175,2.494,0.476,3,620,4,2,0
+1,,,,,,"Action, Award Winning, Sci-Fi, Adult Cast, Space",Sunrise,0.142,2.494,0.487,3,1033,4,3,0
+47917,,,,,,"Comedy, CGDCT, Music",CloverWorks,0.123,2.867,0.511,3,724,2,2,0
+55690,,,,,,"Comedy, Romance, School, Shounen",Shin-Ei Animation,0.168,2.494,0.523,3,732,7,2,0
+51009,,,,,,"Action, Supernatural, Gore, School, Shounen",MAPPA,0.116,2.867,0.517,3,1306,4,4,0
+52198,,,,,,"Comedy, Drama, Romance, School, Seinen",A-1 Pictures,0.165,2.867,0.507,3,696,3,0,0
+50160,,,,,,"Action, Historical, Military, Seinen","Studio Pierrot, Studio Signpost",0.092,1.7,0.523,3,1192,3,2,0
+21,,,,,,"Action, Adventure, Fantasy, Shounen",Toei Animation,0.135,1.7,0.488,3,1114,1,3,0
+53223,,,,,,"Action, Historical, Military, Seinen","Studio Pierrot, Studio Signpost",0.243,0.0,0.643,3,24,3,0,0
+24701,,,,,,"Adventure, Mystery, Slice of Life, Supernatural, Adult Cast, Historical, Iyashikei, Seinen",Artland,0.163,1.247,0.518,3,1067,2,1,0
+44074,,,,,,"Drama, Mystery, Suspense, Adult Cast, Super Power, Time Travel",LAN Studio,0.133,1.633,0.579,3,998,2,2,0
+45649,,,,,,"Award Winning, Sports, School, Team Sports, Shounen","Toei Animation, DandeLion Animation Studio",0.152,2.625,0.579,3,713,2,2,0
+48569,,,,,,"Action, Drama, Sci-Fi, Mecha, Military",A-1 Pictures,0.063,2.944,0.503,3,1147,4,4,0
+39894,,,,,,"Drama, Music, Performing Arts, School",Kyoto Animation,0.111,0.816,0.548,3,860,5,4,0
+1575,,,,,,"Action, Award Winning, Drama, Sci-Fi, Mecha, Military, School, Super Power",Sunrise,0.153,2.16,0.531,3,849,7,4,0
+47778,,,,,,"Action, Supernatural, Historical, Shounen",ufotable,0.097,3.3,0.541,3,625,4,5,0
+50172,,,,,,"Action, Comedy, Supernatural",Bones,0.132,1.886,0.568,3,828,3,3,0
+53447,,,,,,"Action, Super Power","Pb Animation, LAN Studio, Paper Plane Animation Studio",0.176,1.633,0.485,3,479,4,1,0
+33095,,,,,,"Drama, Adult Cast, Historical, Love Polygon, Performing Arts, Josei",Studio Deen,0.105,3.266,0.469,3,1075,2,3,0
+53998,,,,,,"Action, Adventure, Supernatural, Shounen",Studio Pierrot,0.143,2.494,0.526,3,991,6,5,0
+52215,,,,,,"Drama, Historical, Seinen",Madhouse,0.135,2.16,0.48,3,1121,4,2,0
+44,,,,,,"Action, Drama, Romance, Adult Cast, Historical, Samurai, Shounen",Studio Deen,0.098,2.357,0.556,3,839,7,1,0
+33352,,,,,,Drama,Kyoto Animation,0.129,1.633,0.509,3,963,2,3,0
+245,,,,,,"Comedy, Delinquents, School, Workplace, Shounen",Studio Pierrot,0.071,2.449,0.546,3,1335,3,3,0
+59845,,,,,,"Drama, Romance, School",CloverWorks,0.132,1.7,0.551,3,1009,1,0,0
+40434,,,,,,"Action, Adventure, Drama, Fantasy, Mystery, Historical, Mythology, Reincarnation",B.CMAY PICTURES,0.136,0.816,0.455,3,974,2,0,0
+21939,,,,,,"Adventure, Mystery, Slice of Life, Supernatural, Adult Cast, Historical, Iyashikei, Seinen",Artland,0.117,2.16,0.466,3,954,1,2,0
+164,,,,,,"Action, Adventure, Award Winning, Fantasy",Studio Ghibli,0.099,3.682,0.472,3,987,5,2,0
+56784,,,,,,"Action, Adventure, Supernatural, Shounen",Pierrot Films,0.069,3.3,0.517,3,1050,0,2,0
+59986,,,,,,"Comedy, Adult Cast, Gag Humor, Seinen","Zero-G, Liber",0.124,1.7,0.519,3,28,3,2,0
+5258,,,,,,"Sports, Combat Sports, Shounen",Madhouse,0.149,0.816,0.508,3,610,4,3,0
+431,,,,,,"Adventure, Award Winning, Drama, Fantasy, Romance",Studio Ghibli,0.205,2.867,0.567,3,1091,5,2,0
+49818,,,,,,"Action, Fantasy, Mystery, Suspense, Adult Cast, Isekai, Urban Fantasy",B.CMAY PICTURES,0.129,3.742,0.523,3,280,2,2,0
+57864,,,,,,"Comedy, Mystery, Supernatural, Vampire",Shaft,0.145,0.943,0.526,3,1256,2,2,0
+457,,,,,,"Adventure, Mystery, Slice of Life, Supernatural, Adult Cast, Historical, Iyashikei, Seinen",Artland,0.136,2.055,0.476,3,1022,5,1,0
+58567,,,,,,"Action, Adventure, Fantasy, Adult Cast, Urban Fantasy",A-1 Pictures,0.147,2.449,0.545,3,778,2,5,0
+50399,,,,,,"Action, Adventure, Drama, Fantasy, Historical, Mythology",Red Dog Culture House,0.164,1.633,0.469,3,1077,2,0,0
+23273,,,,,,"Drama, Romance, Love Polygon, Music, Performing Arts, School, Shounen",A-1 Pictures,0.142,2.16,0.499,3,957,3,2,0
+49413,,,,,,"Drama, Mystery, Suspense, Adult Cast, Super Power, Time Travel",LAN Studio,0.132,2.494,0.456,3,708,2,2,0
+35760,,,,,,"Action, Drama, Suspense, Gore, Military, Survival, Shounen",Wit Studio,0.061,3.3,0.497,3,1139,3,1,0
+2001,,,,,,"Action, Adventure, Award Winning, Sci-Fi, Mecha",Gainax,0.119,2.867,0.478,3,1129,1,0,0
+46102,,,,,,"Award Winning, Drama, Mystery, Suspense, Adult Cast, Anthropomorphic, Organized Crime","OLM, P.I.C.S.",0.149,1.633,0.541,3,572,6,1,0
+33050,,,,,,"Action, Fantasy, Urban Fantasy",ufotable,0.176,2.055,0.533,3,808,2,0,0
+57647,,,,,,"Sports, Anthropomorphic, Racing",CygamesPictures,0.151,2.828,0.565,3,60,5,1,0
+58125,,,,,,"Drama, Otaku Culture, Shounen",Studio DURIAN,0.166,3.091,0.519,3,978,2,0,0
+34599,,,,,,"Adventure, Drama, Fantasy, Mystery, Sci-Fi, Gore",Kinema Citrus,0.2,2.625,0.534,3,1208,5,3,0
+11665,,,,,,"Slice of Life, Supernatural, Iyashikei, Mythology, Shoujo",Brain's Base,0.124,2.16,0.528,3,1193,3,0,0
+22135,,,,,,"Award Winning, Drama, Sports, Seinen",Tatsunoko Production,0.123,1.633,0.472,3,1439,3,1,0
+40591,,,,,,"Comedy, Romance, School, Seinen",A-1 Pictures,0.116,2.625,0.521,3,706,5,3,0
+45576,,,,,,"Adventure, Drama, Fantasy, Ecchi, Isekai, Reincarnation",Studio Bind,0.155,2.625,0.476,3,819,2,0,0
+1535,,,,,,"Supernatural, Suspense, Psychological, Shounen",Madhouse,0.183,2.494,0.526,3,1044,5,2,0
+28891,,,,,,"Sports, School, Team Sports, Shounen",Production I.G,0.196,2.494,0.527,3,1032,5,1,0
+54898,,,,,,"Action, Mystery, Adult Cast, Detective, Organized Crime, Super Power, Vampire, Seinen",Bones,0.143,3.742,0.49,3,717,1,2,0
+42310,,,,,,"Action, Sci-Fi, Gore, Organized Crime",Trigger,0.105,3.742,0.532,3,1230,5,2,0
+52742,,,,,,"Sports, School, Team Sports, Shounen",Production I.G,0.118,2.494,0.428,3,906,2,0,0
+19647,,,,,,"Sports, Combat Sports, Shounen","Madhouse, MAPPA",0.215,0.471,0.503,3,926,4,0,0

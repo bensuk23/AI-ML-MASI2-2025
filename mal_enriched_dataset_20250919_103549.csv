@@ -1,0 +1,101 @@
+anime_id,title,score,rank,popularity,members,genres,studios,sentiment_score,controversy_index,emotional_intensity,review_count_scraped,synopsis_length,positive_keywords_count,negative_keywords_count,hype_ratio
+52991,,,,,,"Adventure, Drama, Fantasy, Shounen",Madhouse,0.107,2.494,0.489,3,1096,4,3,0
+5114,,,,,,"Action, Adventure, Drama, Fantasy, Military, Shounen",Bones,0.141,2.867,0.527,3,1166,7,3,0
+9253,,,,,,"Drama, Sci-Fi, Suspense, Psychological, Time Travel",White Fox,0.087,2.867,0.532,3,1141,5,4,0
+38524,,,,,,"Action, Drama, Suspense, Gore, Military, Survival, Shounen",Wit Studio,0.157,2.867,0.541,3,859,5,3,0
+39486,,,,,,"Action, Comedy, Drama, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Bandai Namco Pictures,0.185,3.682,0.558,3,880,0,2,0
+28977,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Bandai Namco Pictures,0.14,3.266,0.487,3,1202,2,1,0
+11061,,,,,,"Action, Adventure, Fantasy, Shounen",Madhouse,0.109,3.682,0.521,3,888,7,4,0
+60022,,,,,,"Action, Adventure, Fantasy, Shounen",Toei Animation,0.174,2.449,0.523,3,905,2,0,0
+820,,,,,,"Drama, Sci-Fi, Adult Cast, Military, Space","K-Factory, Kitty Film Mitaka Studio",0.077,3.3,0.5,3,968,4,3,0
+9969,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Sunrise,0.07,2.828,0.565,3,1110,4,4,0
+15417,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Sunrise,0.294,0.0,0.558,3,827,4,0,0
+41467,,,,,,"Action, Adventure, Supernatural, Shounen",Studio Pierrot,0.116,1.633,0.522,3,1001,3,1,0
+34096,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Bandai Namco Pictures,0.083,2.055,0.531,3,1033,2,3,0
+43608,,,,,,"Comedy, Romance, School, Seinen",A-1 Pictures,0.192,2.055,0.56,3,948,7,1,0
+42938,,,,,,"Drama, Romance, Supernatural, Shoujo",TMS Entertainment,0.107,3.3,0.531,3,1027,4,3,0
+4181,,,,,,"Drama, Romance",Kyoto Animation,0.137,2.494,0.521,3,692,5,4,0
+918,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Sunrise,0.093,2.055,0.523,3,1051,5,0,0
+28851,,,,,,"Award Winning, Drama, Shounen",Kyoto Animation,0.075,2.055,0.548,3,955,4,3,0
+58514,,,,,,"Drama, Mystery, Historical, Medical","OLM, TOHO animation STUDIO",0.124,0.471,0.541,3,926,0,2,0
+2904,,,,,,"Action, Award Winning, Drama, Sci-Fi, Mecha, Military, Super Power",Sunrise,0.167,2.944,0.541,3,801,2,4,0
+35180,,,,,,"Drama, Childcare, Strategy Game, Seinen",Shaft,0.121,2.494,0.48,3,986,3,3,0
+15335,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Time Travel, Shounen",Sunrise,0.15,1.886,0.524,3,1061,4,2,0
+19,,,,,,"Drama, Mystery, Suspense, Adult Cast, Psychological, Seinen",Madhouse,0.149,1.7,0.492,3,1392,2,0,0
+37491,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Bandai Namco Pictures,0.115,3.682,0.537,3,834,6,5,0
+54492,,,,,,"Drama, Mystery, Historical, Medical","OLM, TOHO animation STUDIO",0.214,0.943,0.54,3,933,1,0,0
+35247,,,,,,"Comedy, Mystery, Supernatural, Vampire",Shaft,0.131,2.494,0.47,3,717,3,5,0
+51535,,,,,,"Action, Drama, Suspense, Gore, Military, Survival, Shounen",MAPPA,0.158,3.859,0.552,3,1005,4,2,0
+60489,,,,,,"Drama, Sci-Fi, Psychological, Time Travel, Shounen",Enishiya,0.058,1.7,0.579,3,1045,6,4,0
+37987,,,,,,"Award Winning, Drama",Kyoto Animation,0.157,1.7,0.473,3,708,2,2,0
+59571,,,,,,"Action, Drama, Suspense, Gore, Military, Survival, Shounen",MAPPA,0.275,2.357,0.596,3,76,4,2,0
+32281,,,,,,"Award Winning, Drama",CoMix Wave Films,0.131,2.449,0.509,3,851,4,5,0
+40682,,,,,,"Action, Historical, Military, Seinen","Studio Pierrot, Studio Signpost",0.108,2.625,0.579,3,1062,5,0,0
+49387,,,,,,"Action, Adventure, Drama, Gore, Historical, Seinen",MAPPA,0.129,2.055,0.462,3,980,2,0,0
+36838,,,,,,"Action, Comedy, Sci-Fi, Gag Humor, Historical, Parody, Samurai, Shounen",Bandai Namco Pictures,0.052,2.494,0.499,3,1032,2,3,0
+263,,,,,,"Sports, Combat Sports, Shounen",Madhouse,0.141,2.625,0.517,3,1228,3,2,0
+40028,,,,,,"Action, Drama, Suspense, Gore, Military, Survival, Shounen",MAPPA,0.147,2.625,0.541,3,834,6,3,0
+31758,,,,,,"Action, Mystery, Supernatural, Vampire",Shaft,0.101,2.625,0.505,3,1081,5,1,0
+37510,,,,,,"Action, Comedy, Supernatural",Bones,0.115,3.3,0.523,3,710,3,5,0
+59192,,,,,,"Action, Supernatural, Historical, Shounen",ufotable,0.19,2.625,0.51,3,71,4,1,0
+32935,,,,,,"Sports, School, Team Sports, Shounen",Production I.G,0.178,2.16,0.504,3,851,3,1,0
+199,,,,,,"Adventure, Award Winning, Fantasy, Mythology",Studio Ghibli,0.122,2.944,0.544,3,824,5,1,0
+48583,,,,,,"Action, Drama, Suspense, Gore, Military, Survival, Shounen",MAPPA,0.104,3.3,0.541,3,1046,1,1,0
+37521,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+17074,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+2921,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+1,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+47917,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+55690,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+51009,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+52198,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+50160,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+21,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+53223,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+24701,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+44074,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+45649,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+48569,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+39894,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+1575,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+47778,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+50172,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+53447,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+33095,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+53998,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+52215,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+44,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+33352,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+245,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+59845,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+40434,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+21939,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+164,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+56784,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+59986,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+5258,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+431,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+49818,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+57864,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+457,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+58567,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+50399,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+23273,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+49413,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+35760,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+2001,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+46102,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+33050,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+57647,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+58125,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+34599,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+11665,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+22135,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+40591,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+45576,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+1535,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+28891,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+54898,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+42310,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+52742,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
+19647,,,,,,,,0.0,0.0,0.0,0,0,0,0,0
